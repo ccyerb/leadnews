@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="604da608-9ffe-4565-807e-d184b0b7fdd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="F:\Programming\respository_new" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="1qtFhssXtMyvl1Fsk71QRjwXmj3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AliyunTest.executor": "Debug",
+    "JUnit.ApArticleTest.executor": "Debug",
+    "JUnit.ArticleFreemarkerTest.createStaticUrlTest.executor": "Run",
+    "JUnit.FreemarkerTest.test.executor": "Debug",
+    "JUnit.MinioTest.executor": "Debug",
+    "JUnit.MinioTest.testUpdateImgFile.executor": "Debug",
+    "JUnit.RedisTest.executor": "Debug",
+    "JUnit.RedisTest.testList.executor": "Debug",
+    "JUnit.RedisTest.testZset.executor": "Debug",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Tess4jClient.executor": "Debug",
+    "Maven.es-init [install].executor": "Run",
+    "Maven.heima-leadnews [clean,install].executor": "Run",
+    "Maven.heima-leadnews [clean].executor": "Run",
+    "Maven.heima-leadnews [idea:module].executor": "Run",
+    "Maven.heima-leadnews [install,--projects...].executor": "Run",
+    "Maven.heima-leadnews [install].executor": "Run",
+    "Maven.heima-leadnews-admin [install].executor": "Run",
+    "Maven.heima-leadnews-admin-gateway [install].executor": "Run",
+    "Maven.heima-leadnews-app-gateway [install].executor": "Run",
+    "Maven.heima-leadnews-article [clean].executor": "Run",
+    "Maven.heima-leadnews-article [install].executor": "Run",
+    "Maven.heima-leadnews-model [clean,install...].executor": "Run",
+    "Maven.heima-leadnews-schedule [install].executor": "Run",
+    "Maven.heima-leadnews-search [install].executor": "Run",
+    "Maven.heima-leadnews-service [clean,install...].executor": "Run",
+    "Maven.heima-leadnews-user [install].executor": "Run",
+    "Maven.heima-leadnews-utils [clean,install...].executor": "Run",
+    "Maven.heima-leadnews-wemedia [clean,install...].executor": "Run",
+    "Maven.heima-leadnews-wemedia [clean].executor": "Run",
+    "Maven.heima-leadnews-wemedia [compile].executor": "Run",
+    "Maven.heima-leadnews-wemedia [install].executor": "Run",
+    "Maven.heima-leadnews-wemedia-gateway [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Spring Boot.AdminApplication.executor": "Debug",
+    "Spring Boot.AdminGatewayApplication.executor": "Debug",
+    "Spring Boot.AppGatewayApplication.executor": "Debug",
+    "Spring Boot.ArticleApplication.executor": "Debug",
+    "Spring Boot.FreemarkerDemoApplication.executor": "Debug",
+    "Spring Boot.ScheduleApplication.executor": "Debug",
+    "Spring Boot.SearchApplication.executor": "Debug",
+    "Spring Boot.UserApplication.executor": "Debug",
+    "Spring Boot.WemediaApplication.executor": "Debug",
+    "Spring Boot.WemediaGatewayAplication.executor": "Debug",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "F:/JAVA/leadnews/rev/heima-leadnews/heima-leadnews-test/es-init/src/test/java",
+    "last_opened_file_path": "F:/JAVA/leadnews/rev/heima-leadnews",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "F:/JAVA/leadnews/rev/heima-leadnews/heima-leadnews-test/freemarker-demo/src/main/java/heima-leadnews-test/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AppJwtUtil.executor": "Debug",
+    "应用程序.MinIOTest.executor": "Debug"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.heima.user.service" />
+      <recent name="com.heima.model.user.dtos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-article\src\main\java\com\heima\article\config" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\common" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-common\src\main\java\com\heima\common" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\behavior\dtos" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-wemedia\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-search\src\main\java\com\heima\search\pojos" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-search\src\main\java\com\heima\search\service\impl" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-search\src\main\java\com\heima\search\service" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-service\heima-leadnews-search\src\main\java\com\heima\search" />
+      <recent name="F:\JAVA\leadnews\rev\heima-leadnews\heima-leadnews-utils\src\main\java\com\heima\utils\thread" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.heima.wemedia" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heima.article.controller.v1" />
+      <recent name="com.heima.article.service" />
+      <recent name="com.heima.model.user.dtos" />
+      <recent name="com.heima.behavior" />
+      <recent name="com.heima.user.mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn  idea:module" />
+      <command value="mvn clean install" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminGatewayApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-admin" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.admin.AdminApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-admin-gateway" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.admin.gateway.AdminGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.admin.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-app-gateway" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.app.gateway.AppGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.app.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-article" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.ArticleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.user.UserApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.AdminGatewayApplication" />
+      <item itemvalue="Spring Boot.ArticleApplication" />
+      <item itemvalue="Spring Boot.AppGatewayApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.AdminGatewayApplication" />
+        <item itemvalue="Spring Boot.ArticleApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.AppGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="604da608-9ffe-4565-807e-d184b0b7fdd0" name="Default Changelist" comment="" />
+      <created>1617891102231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617891102231</updated>
+      <workItem from="1617891103350" duration="1851000" />
+      <workItem from="1617892989009" duration="2701000" />
+      <workItem from="1617895802525" duration="1179000" />
+      <workItem from="1617896994412" duration="272000" />
+      <workItem from="1617897284577" duration="51000" />
+      <workItem from="1617897661455" duration="1076000" />
+      <workItem from="1617898769684" duration="636000" />
+      <workItem from="1617932839775" duration="1311000" />
+      <workItem from="1712545173879" duration="9716000" />
+      <workItem from="1712647078620" duration="94000" />
+      <workItem from="1712647188845" duration="13313000" />
+      <workItem from="1712660621692" duration="6189000" />
+      <workItem from="1714673115608" duration="5636000" />
+      <workItem from="1714679508837" duration="6162000" />
+      <workItem from="1714685701283" duration="124000" />
+      <workItem from="1714685827503" duration="53000" />
+      <workItem from="1714685885761" duration="761000" />
+      <workItem from="1714686653984" duration="90000" />
+      <workItem from="1714686749434" duration="38000" />
+      <workItem from="1714686793541" duration="13330000" />
+      <workItem from="1714832586797" duration="125000" />
+      <workItem from="1714832725043" duration="13120000" />
+      <workItem from="1715589278409" duration="14483000" />
+      <workItem from="1715617859430" duration="1496000" />
+      <workItem from="1715680947022" duration="10957000" />
+      <workItem from="1715774539604" duration="8225000" />
+      <workItem from="1715862762132" duration="9574000" />
+      <workItem from="1715873486356" duration="14000" />
+      <workItem from="1715873504729" duration="274000" />
+      <workItem from="1715873787172" duration="3719000" />
+      <workItem from="1715950449389" duration="10597000" />
+      <workItem from="1716227028982" duration="550000" />
+      <workItem from="1716227803350" duration="15000" />
+      <workItem from="1718604519239" duration="1546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-search/src/main/java/com/heima/search/service/impl/ApUserSearchServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-search/src/main/java/com/heima/search/service/impl/ApUserSearchServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

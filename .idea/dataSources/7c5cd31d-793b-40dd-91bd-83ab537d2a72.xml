@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Mongo">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.51">
+    <root id="1">
+      <ServerVersion>4.2.1</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="admin"/>
+    <schema id="3" parent="1" name="config"/>
+    <schema id="4" parent="1" name="leadnews-comment"/>
+    <schema id="5" parent="1" name="leadnews-history"/>
+    <schema id="6" parent="1" name="local"/>
+  </database-model>
+</dataSource>
